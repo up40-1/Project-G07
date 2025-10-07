@@ -1,0 +1,13 @@
+{
+    "bot_token": "",
+    "guild_id": "",
+    "control_channel": "",
+    "refresh_interval": 5,
+    "notifications": true,
+    "autostart_bot": false,
+    "sound_alerts": true,
+    "clients": [
+    ],
+    "client_history": {
+    }
+}
