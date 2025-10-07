@@ -1,6 +1,6 @@
-# Project G07 — Remote Access GUI (Pre-release)
+# Project G07 - Remote Access GUI (Pre-release)
 
-> A PyQt6 desktop Remote Access Tool (RAT) that uses the Discord API as a backend and places GUI control in the foreground. This repository is a pre-release and intended for educational purposes only. The UI aims to be the most beautiful GUI seen in a remote access tool — polish and features are still in progress.
+> A PyQt6 desktop Remote Access Tool (RAT) that uses the Discord API as a backend and places GUI control in the foreground. This repository is a pre-release and intended for educational purposes only. The UI aims to be the most beautiful GUI seen in a remote access tool - polish and features are still in progress.
 
 ## Important notice
 
@@ -41,7 +41,6 @@ From the repository root:
 
 ```powershell
 python main.py
-# or use run.bat on Windows
 ```
 
 ## Notes on files and publishing
@@ -57,13 +56,6 @@ This software can be used for remote administration tasks. Only use it where you
 
 Contributions are welcome. Open issues for bugs or feature requests. Include steps to reproduce and logs when possible.
 
-## License
-
-Add your license here (e.g. MIT). If you want I can add a `LICENSE` file.
-# G07 Remote Administration Tool
-
-A modern, feature-rich remote administration tool built with PyQt6 and Discord.
-
 ## Features
 
 - 🎨 Modern dark theme with smooth animations
@@ -72,14 +64,6 @@ A modern, feature-rich remote administration tool built with PyQt6 and Discord.
 - 💻 Advanced client management with remote control capabilities
 - ⚙️ Comprehensive settings management
 - 🔒 Secure Discord-based communication
-
-## Installation
-
-### Requirements
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Discord Bot Setup
 
@@ -92,12 +76,6 @@ pip install -r requirements.txt
 7. Create a channel named "g07-control" in your Discord server
 8. Get your server ID (right-click server → Copy ID)
 
-## Usage
-
-1. Run the application:
-```bash
-python main.py
-```
 
 2. Configure your bot in Settings:
    - Enter your bot token
